@@ -1,0 +1,61 @@
+body{
+    background-color:#FEE19D;
+}
+.Form{
+    background-color:whitesmoke;
+    margin-top: 12%;
+    margin: 100px;
+}
+.logo{
+    color: #469da4;
+    margin-left: 20%;
+    
+}
+.start{
+    margin-top: 10%;
+    color: #464646;
+    margin-left: 20%;
+}
+.form{
+    margin-left: 18%;
+    padding: 20px;
+    color: #464646;
+    
+
+}
+input[type=text],select{
+    width:50% ;
+    height: 30px;
+    margin-top: 4%;
+    
+
+}
+
+input[type=checkbox],select{
+    font-size: 5px;
+}
+.psw{
+    margin-left: 20%;
+}
+button[type=login],select{
+    background-color: #469da4;
+    width: 52%;
+    height:40px ;
+    /* border-radius: 5%; */
+    margin-top: 4%;
+    color: whitesmoke;
+    font-size:15px
+}
+.Image{
+    margin-left: 50%;
+    margin-top: -50%;
+    
+}
+.Image img{
+  width: 450px;
+  height: 400px;
+}
+
+
+
+    
