@@ -8,16 +8,25 @@ body{
 }
 .logo{
     color: #469da4;
-    margin-left: 20%;
+    margin-left: 12%;
+    font-size: 60%;
     
+    
+}
+.logo p{
+    margin-left: 60%;
+    font-size: 15px;
+}
+.logo h2{
+    margin-bottom: -25px;
 }
 .start{
     margin-top: 10%;
     color: #464646;
-    margin-left: 20%;
+    margin-left: 12%;
 }
 .form{
-    margin-left: 18%;
+    margin-left: 10%;
     padding: 20px;
     color: #464646;
     
@@ -26,7 +35,7 @@ body{
 input[type=text],select{
     width:50% ;
     height: 30px;
-    margin-top: 4%;
+    margin-top: 2%;
     
 
 }
@@ -54,6 +63,20 @@ button[type=login],select{
 .Image img{
   width: 450px;
   height: 400px;
+}
+.facebook{
+    margin-left: 5px;
+}
+.instagram{
+    margin-left: 25px;
+}
+.google{
+    margin-left: 25px;
+}
+.icons{
+    margin-top:20px ;
+    align-items: center;
+    margin-left: 18%;
 }
 
 

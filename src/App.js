@@ -1,12 +1,14 @@
 // import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Trial from './Trial';
 
 
-function App() {
+
+function App(){
   return (
     <div>
-    <Trial />
+      <Trial />
     </div>
   );
 }
